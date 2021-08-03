@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @haziboro
-- 👀 I’m interested in game development
+- 👀 I’m interested in game development and learning new programming skills
 - 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on Games!
 - 📫 How to reach me: https://www.linkedin.com/in/john-stevens-5a1555213/
