@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @haziboro
-- 👀 I’m interested in game development and learning new programming skills
-- 🌱 I’m currently learning .Net
-- 💞️ I’m looking to collaborate on Games!
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning javascript
 - 📫 How to reach me: https://www.linkedin.com/in/john-stevens-5a1555213/
 
 <!---
